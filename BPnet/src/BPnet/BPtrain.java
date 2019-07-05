@@ -5,20 +5,27 @@ import java.util.*;
 import java.io.*;
 
 public class BPtrain {
-    private final int time;     //训练的迭代次数
-    private final String fileOne;       //训练数据
-    private final String fileTwo;       //训练结果
-    private final String fileThree;     //测试数据
-    private final String fileFour;      //测试结果
+    private int time;     //训练的迭代次数
+    private String fileOne;       //训练数据
+    private String fileTwo;       //训练结果
+    private String fileThree;     //测试数据
+    private String fileFour;      //测试结果
+    private List<ImageModel> imageModel = null;
     private BPnetwork BPtext = null;
-
-    public BPtrain(String fileOneS, String fileTwoS, String fileThreeS, String fileFourS, int timesS, BPnetwork ttt) {
+    //网络的测试
+    public BPtrain(String fileOneS, String fileTwoS, String fileThreeS, String fileFourS, int timesS, BPnetwork netOne) {
         this.time = timesS;
         this.fileOne = fileOneS;
         this.fileTwo = fileTwoS;
         this.fileThree = fileThreeS;
         this.fileFour = fileFourS;
-        this.BPtext = ttt;
+        this.BPtext = netOne;
+    }
+    //手写网络的训练
+    public BPtrain(List<ImageModel> List,BPnetwork netTwo,int timeT){
+        this.time = timeT;
+        this.imageModel = List;
+        this.BPtext = netTwo;
     }
 
     public void Train() throws Exception {
@@ -46,6 +53,42 @@ public class BPtrain {
                 }
                 //优化，自适应学习率
                 double old = 0, newl = 0;
+                BPtext.setStudy(3);
+                for (int i = 0; i < time; i++) {
+                    BPtext.train(trainData, trainResult);
+                    if (BPtext.getError() < 0.005)
+                        break;
+                    if (i % 20 == 0) {
+                        old = newl;
+                        newl = BPtext.getError();
+                        if ((newl - old) > 0 && old != 0)
+                            BPtext.setStudy(1);
+                        else
+                            BPtext.setStudy(2);
+                    }
+                }
+            }
+        }
+    }
+
+    public void writeTrain() {
+        double flag = 0,old = 0,newl = 0;
+        double[] trainData = new double[784];
+        double[] trainResult = new double[10];
+        int size = imageModel.size();
+        for (int p = 0; p < 5; p++) {
+            for (int j = 0; j < size; j++) {
+                System.arraycopy(imageModel.get(j).getGrayMatrix(),0,trainData,0,imageModel.get(j).getGrayMatrix().length);
+                System.arraycopy(imageModel.get(j).getOutputList(),0,trainResult,0,imageModel.get(j).getOutputList().length);
+                for (int k = 0; k <imageModel.get(j).getGrayMatrix().length ; k++) {
+                    //flag = Integer.parseInt(trainData[k]);
+                    flag = trainData[k];
+                    if (flag >= 0.5)
+                        trainData[k] = 0;
+                    else
+                        trainData[k] = 1;
+                }
+                //优化，自适应学习率
                 BPtext.setStudy(3);
                 for (int i = 0; i < time; i++) {
                     BPtext.train(trainData, trainResult);
@@ -104,7 +147,6 @@ public class BPtrain {
                 number++;
         }
         System.out.println("正确率：" + number / trainRow * 100 + "%");
-        MainFrame ttt = new MainFrame(BPtext);
     }
 }
 
