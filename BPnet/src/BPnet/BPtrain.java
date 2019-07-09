@@ -80,8 +80,7 @@ public class BPtrain {
             for (int j = 0; j < size; j++) {
                 System.arraycopy(imageModel.get(j).getGrayMatrix(),0,trainData,0,imageModel.get(j).getGrayMatrix().length);
                 System.arraycopy(imageModel.get(j).getOutputList(),0,trainResult,0,imageModel.get(j).getOutputList().length);
-                for (int k = 0; k <imageModel.get(j).getGrayMatrix().length ; k++) {
-                    //flag = Integer.parseInt(trainData[k]);
+               for (int k = 0; k <trainData.length ; k++) {
                     flag = trainData[k];
                     if (flag >= 0.5)
                         trainData[k] = 0;
@@ -107,7 +106,7 @@ public class BPtrain {
         }
     }
 
-    public void Text() throws Exception {
+    public double Text() throws Exception {
         CsvFile file_One = new CsvFile(fileThree);
         int trainAnsRow = file_One.getRowNum(); //获得训练结果行数
         int trainAnsCal = file_One.getColNum(); //获得训练结果列数(其实没多大必要)
@@ -146,7 +145,7 @@ public class BPtrain {
             if (trainResult[ll] == 1)
                 number++;
         }
-        System.out.println("正确率：" + number / trainRow * 100 + "%");
+        return number / trainRow;
     }
 }
 

@@ -19,6 +19,7 @@ public class BPnetwork {
     private double study;     //学习率
     private final double vector;    //动向量
     private final double allowError;    //误差允许值
+    private  boolean ifTrain = false;
 
     //初始化各个参数(输入层节点、隐藏层节点、输出层节点、学习率、动向量、误差允许值)
     public BPnetwork(int inputS,int hiddenS,int outputS,double studyS,double vectorS,double allowErrorS){
@@ -43,6 +44,10 @@ public class BPnetwork {
         setWeight(hidOutWeight);
         setWeight(hidden);
         setWeight(output);
+    }
+    //是否训练成功
+    public boolean getTrain(){
+        return ifTrain;
     }
     //改变学习率
     public void setStudy(int number){
@@ -86,6 +91,7 @@ public class BPnetwork {
 
     //训练数据
     public void train(double[] trainData,double[] targetS){
+        this.ifTrain = true;
         loadInput(trainData);       //加载输入数据
         loadTarget(targetS);         //加载输出数据
         forward();                  //正向计算输出公式
