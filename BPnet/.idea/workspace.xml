@@ -8,30 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BPnet.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Canvas$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Canvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/CsvFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/ImageModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/ImageUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/BPtrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BPnet/BPtrain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/Canvas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/Constant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/CsvFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/ImageModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/ImageUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BPnet/MainFrame.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../image/0_001b6fc9-3a1a-4c6d-96fd-ec5fef7ed78a.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../image/0_0301ff0f-10d9-4d1a-8e43-3f5cbac5b7ec.jpg" beforeDir="false" />
@@ -322,14 +298,14 @@
         <counts>
           <entry key="class" value="8" />
           <entry key="java" value="4540" />
-          <entry key="txt" value="19" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="JAVA" value="4540" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
     </session>
@@ -417,7 +393,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
+            <state relative-caret-position="186">
               <caret line="216" column="71" selection-start-line="216" selection-start-column="71" selection-end-line="216" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -515,7 +491,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562820861674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562820939885" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -621,7 +597,7 @@
       <workItem from="1562734871527" duration="183000" />
       <workItem from="1562735184357" duration="720000" />
       <workItem from="1562820158607" duration="173000" />
-      <workItem from="1562820370368" duration="417000" />
+      <workItem from="1562820370368" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="利用BP神经网络实现数字手写识别系统">
       <created>1562062643709</created>
@@ -651,15 +627,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562655154190</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="手写数字识别">
+      <created>1562820913295</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562820913295</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34006000" />
+    <option name="totallyTimeSpent" value="34562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18431635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -670,7 +652,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87884873" visible="true" weight="0.05248227" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87884873" visible="true" weight="0.3815603" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.84316355" weight="0.13758865" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -713,7 +695,8 @@
     </ignored-roots>
     <MESSAGE value="利用BP神经网络实现数字手写识别系统" />
     <MESSAGE value="添加手写数据和修改了UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加手写数据和修改了UI" />
+    <MESSAGE value="手写数字识别" />
+    <option name="LAST_COMMIT_MESSAGE" value="手写数字识别" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/BPnet.java" />
@@ -876,7 +859,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
+        <state relative-caret-position="186">
           <caret line="216" column="71" selection-start-line="216" selection-start-column="71" selection-end-line="216" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
