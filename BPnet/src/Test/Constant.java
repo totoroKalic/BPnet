@@ -1,4 +1,4 @@
-package BPnet;
+package Test;
 
 public class Constant {
     public static String trainFolder = null;

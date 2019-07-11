@@ -1,4 +1,4 @@
-package BPnet;
+package Test;
 
 import javax.swing.*;
 import java.awt.*;
@@ -6,6 +6,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 import java.util.ArrayList;
+
 public class Canvas extends JPanel implements MouseListener,MouseMotionListener{
     private int width;
     private int height;

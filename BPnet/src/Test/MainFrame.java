@@ -1,4 +1,4 @@
-package BPnet;
+package Test;
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,6 +9,8 @@ import java.io.File;
 import java.util.List;
 import javax.imageio.ImageIO;
 import java.awt.Color;
+import BPnet.BPnetwork;
+import BPnet.BPtrain;
 
 public class MainFrame extends JFrame{
     private int width = 450;
@@ -184,6 +186,7 @@ public class MainFrame extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 //待完善
+                JOptionPane.showMessageDialog(null,"Without a CNNnet");
             }
         });
 
@@ -197,6 +200,7 @@ public class MainFrame extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 //待完善
+                JOptionPane.showMessageDialog(null,"Without a CNNnet");
             }
         });
 
@@ -210,6 +214,7 @@ public class MainFrame extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 //待完善
+                JOptionPane.showMessageDialog(null,"Without a CNNnet");
             }
         });
 

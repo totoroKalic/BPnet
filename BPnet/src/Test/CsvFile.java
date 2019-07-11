@@ -1,4 +1,4 @@
-package BPnet;
+package Test;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package BPnet;
+package Test;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

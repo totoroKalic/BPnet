@@ -2,8 +2,251 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee7f2725-6346-4b4f-b751-cff19d24dc73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BPnet/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BPnet/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/BPnet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BPnet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Canvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/CsvFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/ImageModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/BPtrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BPnet/BPtrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/CsvFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/ImageModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/ImageUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BPnet/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_001b6fc9-3a1a-4c6d-96fd-ec5fef7ed78a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_0301ff0f-10d9-4d1a-8e43-3f5cbac5b7ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_2f5dbb70-2f03-4ca8-a05d-94ecc146373c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_31b56238-06ec-427e-8595-a36447484a02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_3619eba6-8c1a-4044-88d7-764d742da0cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_39b0da6f-74f2-4c50-b503-0ef2fb5e8d23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_447cb1c5-e975-4cb2-9027-a0541d523534.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_4d25580a-726a-4bc0-bf48-4e0654b46729.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_70e3054b-8605-4fc2-bb63-f2077c2f1c43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_a0318ef7-6bb7-4d95-9b84-bfe705402766.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_a4dd76c5-b822-4975-af44-7609ca311f79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_a5055131-f51e-4a3d-818f-c720c0e47205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_b168d05a-0911-4f10-935e-94a5b96f4b97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_b3a2b246-3c49-4560-add7-db16b300f848.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_b50ac687-4f63-43d3-af5d-8fa74b7d4d3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_b97cddbf-dc27-43c9-af32-199781da4654.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_ba443a0d-3dd4-438e-9ad6-5d7b3da85daa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_c07a4e37-4f7b-4ff9-bd35-858760404b1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_cf0b7e68-8aee-43ea-8a0c-38a4a08d44d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/0_f95c7ea6-3269-413d-8ef0-a7e4d38ace33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_0707478b-4bcb-4465-9b69-59fbc0e29feb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_242577dc-7cb4-4fc8-bd3e-1984352fa472.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_35a5712c-5ba0-47b2-b02f-454a6a612fab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_41b991ab-fe97-4baf-9373-09bd7374a0a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_72a6124b-bc55-466c-b80d-ab30afce1d49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_7cba311c-27ea-468c-adc0-93897e7265fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_8180843d-8b4a-4d48-9471-631bfd23e27f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_851db199-03e2-449e-8504-8df5c965626e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_8b813a9a-dae9-45d5-856d-75b0ab3ec4c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_93e13fc9-d02a-4887-84e4-ccc31e1a40eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_96713ba9-8188-4abd-a161-9aa044367ada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_97130e98-f163-4105-a22e-28a1e4479fe4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_98077984-c6a0-4a47-9531-fbcc281ddd9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_a0602d17-2fd5-43bb-a0c3-6a3eaee06cdb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_b7aa93de-a78f-48de-9370-b03d2cd14912.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_c10453ac-7891-4024-8ab6-afc2508eae50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_e79ee33f-d9c6-4a4b-a050-a2650958d541.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_ea6e40d1-61af-4bc3-94e1-19bafe19bb76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_ef812ead-d4e0-4a60-9444-fb19d1637c29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/1_fbc4a020-a058-4e36-834e-4f3c4f1a8e30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_018b15f8-2c7f-4a57-a8d0-cd16e4b3fa5d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_12b93ac8-3a13-4212-82e1-0edc734b4052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_33f7718e-04e6-432f-b0fc-3e6c80df48d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_4aad6c91-9696-4bd5-a4e3-e15a814cbd8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_52374637-3a15-4e85-806f-2d78d11d8731.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_59e38136-65bc-40d7-96c5-b2a8ed7d0375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_70efefd8-acac-4be8-8294-a33820578c4b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_7cc61213-d7f7-4519-b461-edbf95830c79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_8c7dc7c4-e2ce-46cd-b3d1-a151e5cf11b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_92a1b905-97a8-4f95-90c9-ea398fcd3abb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_98490662-9f99-4b6d-b6d4-4345e32bf4e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_99d2eb63-1486-4ffd-8455-f7b8da7a41ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_a1ac0cbb-ebca-45f0-b1c7-3b25f812f58a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_a973b257-c743-40bf-9620-da14b707e7fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_ad6f0379-56ea-40d2-a6a7-a5a34bbcbefe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_c6e9473a-b617-420b-965c-94a200e87d9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_dad1c740-7998-4689-b25e-291f32ce584e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_dfdb18d3-00a4-47b8-a10b-0aff6ca9ae53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_efd56711-b797-4fc4-acb5-be57b1749ba9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/2_f0cec929-d472-4eef-a97d-9fce98a430af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_11de97a2-81ee-4e62-b245-a2c2126e82f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_18418397-625d-42d9-9c39-8709f51c809b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_22c22d5e-7205-419f-bbc0-cd561b5f8cc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_2d5eb974-7019-4212-b8bb-c64669fad9d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_320b79e8-2c80-460b-8044-9cc09424df11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_3cc970e9-ab9e-4ba9-8f94-24b9f95d19bd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_4a82d70e-6b8d-4267-946c-39f33de7f9c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_54103f3d-c56e-42f9-92c0-6663b42c2d7a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_55c3f919-99ec-46f3-a278-6978b7913720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_62f163e2-3680-412e-945f-7eb8c0553f67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_79ef75bb-c861-4fba-812d-2ec17dfd7ea8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_926b39ae-f417-44a7-8bb6-7844d53b40ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_b281e36e-5096-4543-84e2-8ef2df68d65f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_c963bcd9-00f0-4983-9db1-156069175e14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_d3596506-692d-4ddc-b5b3-174f0314e2cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_d74d25ed-421f-4313-898b-734010baf854.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_d83584fa-d91d-4594-b2e2-72eea658dd17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_ee736429-2188-491c-9c04-d70433bb4d77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_ef5c09b0-09e1-41aa-a556-481c5472b7dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/3_f6696a66-93d3-47ff-b6d3-1871c2f8da87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_225f8f2b-b182-45d4-b348-14b0f65dfcea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_546d2cd3-229b-42bc-86ca-23f9008aca35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_614c09fd-1d46-4f33-8be3-db7604350c71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_6a7316f0-ddf8-4686-a9ea-f6cd31adca07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_875a700a-4486-4608-97af-c91639e7535e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_8849058c-4e41-40bc-9542-37fb497d63d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_92a7326c-e4f8-4202-ac11-ca9f410f7f13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_98a12676-65de-4d2a-ada5-a06193419293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_a4498f29-f0e3-478d-a22e-8dda42fc08ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_a56709d1-e7e8-465f-a7b0-d0ea1fa7e597.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_a80ae68a-07c6-46b0-9ab2-fa5528753b38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_ba1165cd-6593-49a2-80ad-60dd24a94a97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_c39309c0-5dd8-4c52-832f-6bc92ded8719.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_d5d42b45-809b-40c3-8765-ceae4f3d17e5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_de17de18-3cc5-4a82-bf26-699be9bb3fde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_e6833ccd-7dad-4de2-8fc8-cf93f5147897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_ed39ad2e-b951-47be-95b1-8afc4a31dfc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_f6524117-cae0-4f01-88f6-046862064e4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_f72b2bdc-c8a9-4a8c-91b4-e304f76e9f1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/4_fdd7ec0a-8657-487e-816a-d50055e2585d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_005413e9-3dc5-4293-81b3-6228d16120d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_2276b6cb-b1fa-4523-bb2b-dc986b9d3536.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_234513c3-dbb2-497c-b022-9a5e6e077ec5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_2a30c088-738d-4b0e-a237-513e134db712.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_361a3f54-e91f-4a5b-8ef6-e49e1b401ed4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_3c4215da-00b4-41cd-862b-da34dac302b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_4525fa5c-be16-44e7-8365-f11e646ddb54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_4ad7437b-5626-4547-a58e-7bea4dd22ea5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_4defb39c-33cc-471f-99bd-8f5a7226e3c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_57b21612-3998-414f-9d7c-b61d904ca565.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_5fa9d8ec-e44e-4334-b162-4f015d7758ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_809941f2-ae9f-4c49-9fa5-6a059ffac687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_80a897c5-e03a-4542-be98-6c802fc2dffb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_96283a8b-1fd9-4692-bcb4-ae5e925fcb84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_b35ec661-680d-422f-af6b-c8c14995ce4e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_b368fb1b-0d90-4be7-bb58-f789c65c6fbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_bb272571-9420-460f-bf12-ba69d1d4a005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_c25e771c-68c7-4a7e-a680-9dbbfbe5b7f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_d258880a-fcf1-4094-b007-87d3d311f223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/5_fc00cd6e-7be7-4c2e-a84b-f8d600c8494f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_035542ac-9f84-476f-86fb-05ace3e4548e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_1718560f-8e94-44e1-a49f-87982574889a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_1d7eb04c-b114-48ce-8edc-76f18ed04343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_41ced701-ec38-4742-a834-9d06c42fec61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_5729a01a-3831-457a-84bf-5a433c4d65a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_5c179ea6-f67c-4276-b9b4-28972f3b799e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_60886298-f53d-4742-ad36-5ad61f6b8c63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_60eb5f59-ed40-4304-9245-6336586930e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_8d27b275-b8cc-481c-9e20-5c1745171cba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_97b81375-0620-448f-a3d2-bbba53e28d47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_9c1aab82-eda6-42d2-914e-90a1f2cb277c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_a0628b91-b665-4610-9c35-59a31f070817.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_c70d5a07-71e4-47cb-8374-6e9d722e8ec2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_c99c0c39-502c-4724-afc1-8a0e752b9229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_ceecd7c0-74a4-4115-bbc1-8316f82f3d83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_d1098e21-9fef-4c54-a3aa-c03939fba5a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_d38693c0-19a5-46e1-accf-5cfec325159b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_f26893e7-92f7-417a-8de9-e45fce91a385.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_f9dc770e-15b8-4661-a797-8de58fb092d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/6_fb06b649-ce54-46f2-8622-3302c18e4d2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_062f4bd8-6e31-45e6-a219-42c6d1426415.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_0b5d22ba-3696-47fe-a213-b9c31d022fb9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_2530e898-7a9b-45a3-974d-16eb5f678615.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_325adfdd-7ebf-4eda-a86e-6126cf9c8eae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_33f1c369-dcd2-411c-a671-939b4b638885.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_5474bd95-23ea-48db-b670-811a67148d8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_5c56ca44-c055-407c-8d58-0ffd40995121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_608d8c7f-0811-4ff4-bf75-9ddb57e87bdf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_72feaadd-2d0b-4382-8974-2d196eb70d98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_7c56ea18-1f9f-46d3-9001-ff9d70800714.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_7ca75bc4-5a9a-4aac-a165-bbb83c27db30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_80c68fa8-8dcc-42be-89bf-98a9fbc33c33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_8a2eae37-f8dc-462f-866a-902ebb70bbc6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_8dd5f43f-6965-438d-ba6d-965037628583.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_948b4b8f-44f3-4b7b-987d-c8de1f95917f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_a4339617-5c6e-4cb7-98c1-bda2373b09e9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_b91a9820-9986-4d19-88ae-89c7cc16c447.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_e35266a6-cb63-4970-b599-8a0eb59ba512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_fd47c4aa-660d-43bf-9ad9-38538edc38f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/7_fdd5fc01-8af5-4dbb-a678-1fbdc1844df1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_0cc16ab5-032a-407f-a8e6-b7be1db4b4a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_1563ccf7-119f-439d-93b0-9766bbe56556.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_1b15231a-c542-4ef9-a59f-e71c6beed76a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_1d9e0f5d-dc29-49ab-be9e-3d572ade69fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_3c845c25-ca05-45c8-903d-75cb751fa7f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_3f4bbacc-5bca-4999-9e83-c1226a2c8b5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_4704f843-b9b2-4fdb-8b13-77af7d9cadd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_5524d547-275a-45be-bc2c-b8d7650c5738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_6296653c-3586-4eab-b98b-a8851844c949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_64a283ea-36fd-4125-a321-4e376dd552a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_6a87650b-76b7-430a-8da2-f7f71019c63c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_7645f72f-de14-4f0b-b4c0-d9e3d710c9f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_8897e418-9e5f-4954-8306-a116daf454bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_8acd3d48-6e57-4c95-874f-d256648f3fc9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_92944de4-e28f-4d26-a6ad-b0b5ddfc556c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_a4c7353a-e7e5-4f05-ba71-9620873c7b2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_bf1aabc7-a426-44e1-97ad-309be87bf5e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_de91c753-bb83-479d-b9ec-cc759f10785f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_edcd1414-2b1a-4589-bceb-8a0d3e9d166e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/8_ee2d0310-ddfd-4c0b-9f76-c98ab1bf1437.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_1325e6fa-978d-4446-a06d-5af254c6aa8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_18c56bdf-87c4-4c1a-a355-7ed42f4c45e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_3df58b2e-51fc-4137-9f2b-0f50a46e3b92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_53daf7dd-05b7-4043-a3aa-7283a0e6dc02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_54b0ce60-39f0-4e81-b923-a0b77e5b9089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_5f8a0b9a-380c-40b5-aba9-8cd06d3c8506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_61e63b73-77e1-4077-b6f0-a8523e2cd53f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_65c08b9c-0cd5-4d9d-9876-74c193c04b71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_6fd11318-7a23-4899-bd26-251c6c5220f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_77998ea4-d4aa-4c13-966d-69e26ab2db04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_85b85631-558f-41b8-9b22-7270628bc651.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_868996e4-600a-483f-9c3b-63f6305fceec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_8ba25fa1-5722-4fdf-8778-8351c44cf9e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_a6bcde2b-d188-40c2-80e4-6d3b4a69edf4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_a76fc1ba-7922-49ae-ac4d-00c215d3de43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_ba5784ea-ec1e-42f1-be16-d4437747dccb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_c23e4593-21eb-4a18-8749-55f2af7e4e1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_de712d7e-e4b1-49cb-a712-d0b68ee0282a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_e18d1562-8ece-4208-9416-f2a112404a53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image/9_fa9112f0-9650-4420-ad22-f4096737f2ef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/BPnetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/BPtrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/CsvFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/ImageModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/ImageUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BPnet/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traindata1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traindata2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../try.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,35 +292,43 @@
     <session id="-821833308">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="class" value="14" />
+          <entry key="java" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="CLASS" value="14" />
+          <entry key="JAVA" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4370" />
+          <entry key="class" value="8" />
+          <entry key="java" value="4540" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4370" />
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="4540" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
@@ -85,20 +336,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BPnet/BPtrain.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BPnet/BPnetwork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="29" />
+            <state relative-caret-position="-2261">
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BPnet/BPnetwork.java">
+        <entry file="file://$PROJECT_DIR$/src/BPnet/BPtrain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1349">
-              <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Canvas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-494">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/ImageModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/ImageUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1406">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#1191#1203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/CsvFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/MainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="216" column="71" selection-start-line="216" selection-start-column="71" selection-end-line="216" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,9 +448,17 @@
         <option value="$PROJECT_DIR$/src/BPnet/ImageModel.java" />
         <option value="$PROJECT_DIR$/src/BPnet/ImageUtil.java" />
         <option value="$PROJECT_DIR$/src/BPnet/BPnetwork.java" />
-        <option value="$PROJECT_DIR$/src/BPnet/BPtrain.java" />
         <option value="$PROJECT_DIR$/src/BPnet/Main.java" />
         <option value="$PROJECT_DIR$/src/BPnet/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/Data/CsvFile.java" />
+        <option value="$PROJECT_DIR$/src/Test/Constant.java" />
+        <option value="$PROJECT_DIR$/src/Test/ImageModel.java" />
+        <option value="$PROJECT_DIR$/src/Test/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/src/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/Test/CsvFile.java" />
+        <option value="$PROJECT_DIR$/src/BPnet/BPtrain.java" />
+        <option value="$PROJECT_DIR$/src/Test/Canvas.java" />
+        <option value="$PROJECT_DIR$/src/Test/MainFrame.java" />
       </list>
     </option>
   </component>
@@ -138,10 +469,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="87" />
-    <option name="y" value="120" />
-    <option name="width" value="1940" />
-    <option name="height" value="829" />
+    <option name="x" value="-10" />
+    <option name="y" value="81" />
+    <option name="width" value="1943" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -167,6 +498,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="BPnet" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BPnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BPnet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,11 +515,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562680577869" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cnn-master" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562820861674" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -202,7 +542,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Main" />
+      <module name="BPnet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BPnet.Main" />
       <module name="BPnet" />
@@ -232,9 +585,11 @@
     <list>
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
       </list>
@@ -260,6 +615,13 @@
       <workItem from="1562666936349" duration="598000" />
       <workItem from="1562679932634" duration="301000" />
       <workItem from="1562680288684" duration="320000" />
+      <workItem from="1562682820413" duration="721000" />
+      <workItem from="1562734201126" duration="436000" />
+      <workItem from="1562734655786" duration="80000" />
+      <workItem from="1562734871527" duration="183000" />
+      <workItem from="1562735184357" duration="720000" />
+      <workItem from="1562820158607" duration="173000" />
+      <workItem from="1562820370368" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="利用BP神经网络实现数字手写识别系统">
       <created>1562062643709</created>
@@ -293,13 +655,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31276000" />
+    <option name="totallyTimeSpent" value="34006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18431635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,12 +670,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87884873" weight="0.05248227" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87884873" visible="true" weight="0.05248227" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.84316355" weight="0.13758865" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32867134" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026774" side_tool="true" weight="0.32904148" />
@@ -331,6 +693,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -388,87 +760,206 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPnet/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/BPnet/Canvas.java" />
+    <entry file="file://$PROJECT_DIR$/src/BPnet/Constant.java" />
+    <entry file="file://$PROJECT_DIR$/src/BPnet/CsvFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/BPnet/ImageModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/BPnet/Main.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/ImageUtil.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/ImageModel.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/CsvFile.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/Canvas.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/BPtrain.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPnet/Canvas.java">
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/MainFrame.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/BPnet/BPnet/BPnetwork.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPnet/CsvFile.java">
+    <entry file="file://$PROJECT_DIR$/src/BPnet/MainFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/BPnet/ImageUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/Data/CsvFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPnet/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPnet/ImageUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPnet/ImageModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BPnet/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3840">
-          <caret line="214" selection-start-line="214" selection-end-line="214" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BPnet/BPnetwork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+        <state relative-caret-position="-2261">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BPnet/BPtrain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="29" />
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/CsvFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/ImageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#1191#1203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="216" column="71" selection-start-line="216" selection-start-column="71" selection-end-line="216" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BPnet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

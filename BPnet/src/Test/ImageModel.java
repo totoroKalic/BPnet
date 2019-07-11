@@ -1,4 +1,4 @@
-package BPnet;
+package Test;
 
 public class ImageModel {
     private double[] grayMatrix = null;

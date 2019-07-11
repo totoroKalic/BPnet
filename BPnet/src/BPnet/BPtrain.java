@@ -3,6 +3,8 @@ package BPnet;
 import java.text.*;
 import java.util.*;
 import java.io.*;
+import Test.CsvFile;
+import Test.ImageModel;
 
 public class BPtrain {
     private int time;     //训练的迭代次数
